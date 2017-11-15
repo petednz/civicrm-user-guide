@@ -271,7 +271,7 @@ screen, but you can also set up CiviCRM to integrate with your usual
 email client so you can send and receive emails as usual and also have
 them filed in CiviCRM.
 
-In the CiviMail chapter the Email Processor was described as a way to
+In the CiviMail (Inbound mail) chapter the Email Processor was described as a way to
 get inbound and outbound emails into CiviCRM as non-case activities.
 When you enable CiviCase, a new action will be available that allows you
 to file any non-case activity onto a case.
