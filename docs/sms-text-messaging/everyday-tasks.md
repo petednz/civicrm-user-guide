@@ -99,6 +99,7 @@ will three steps to complete:
     as New Template" before going to the next screen.
     
     ![image](../img/CiviCRM_Bulk-SMS_write-message.png)
+    
 3.  **Schedule or Send**: you now have the option to send the message
     immediately, or schedule it to be sent automatically at a future
     date and time. If you do not wish to do either at the moment, you
