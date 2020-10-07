@@ -436,7 +436,7 @@ you have created your Profile according to the instructions above:
 -   Paste the HTML code for the form in a page you've built on your
     website. Get the code at **Administer > Customize Data and Screens > Profiles**. Click the **more** link next to your Profile and
     choose **HTML Form Snippet** from the pop-up menu. Copy the code
-    that appears on the next screen and paste it wherever you want.
+    that appears on the next screen and paste it wherever you want. (NOTE: You need to enable a setting that allows Profile submissions from external sites for this to be visible. To do this go to Administer >> System Settings >> Misc and look for "Accept profile submissions from external sites")
 
 In WordPress, there is an additional third way. When creating or editing
 a post, click on the CiviCRM button to insert a CiviCRM shortcode into
